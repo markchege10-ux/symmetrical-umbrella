@@ -1,14 +1,8 @@
 # Mark Muraya - Week 03 Project
 
-*
-
-## Live Demo
 
 [View Live Site](https://markchege10-ux.github.io/iyf-s10-week-03-markchege10-ux)
 
-## Screenshot
-
-![Project Screenshot](./images/screenshot.png)
 
 ## Features
 
