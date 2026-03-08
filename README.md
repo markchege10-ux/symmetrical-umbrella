@@ -1,9 +1,6 @@
 # Mark Muraya - Week 03 Project
 
 
-[View Live Site](https://markchege10-ux.github.io/iyf-s10-week-03-markchege10-ux)
-
-
 ## Features
 
 - ✅ Responsive design
