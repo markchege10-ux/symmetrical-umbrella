@@ -1,4 +1,4 @@
-# Mark Muraya - Week 03 Project
+# Mark - Week 03 Project
 
 
 ## Features
